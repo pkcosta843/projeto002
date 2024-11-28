@@ -8,9 +8,6 @@
 - [Funcionalidades](#funcionalidades)  
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)  
 - [Como Visualizar o Projeto](#como-visualizar-o-projeto)  
-- [Estrutura de Arquivos](#estrutura-de-arquivos)  
-- [Contribuição](#contribuição)  
-- [Licença](#licença)  
 
 ---
 
